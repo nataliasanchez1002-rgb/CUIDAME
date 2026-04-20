@@ -1,51 +1,83 @@
-CuidaME App
+# CuidaME App
 
-An interactive application built with Python and Kivy/KivyMD designed to teach children about personal safety, emotions, and risk prevention through games, chat, and real-time body detection using AI.
---------------------------------------------------------------------------------
+CuidaME is an interactive desktop application built with Python and Kivy/KivyMD.
+It is designed to teach children about personal safety, emotions, and risk prevention through games, an AI-powered chatbot, and real-time body detection.
 
-# Tech Stack
+---------------------------------------
+
+## Features
+
+* Educational mini-games for children
+* Chatbot that detects risky or sensitive language
+* Real-time body pose detection using AI (MoveNet)
+* User data storage using JSON
+
+---------------------------------------------------
+
+## Tech Stack
 
 * Python
 * Kivy / KivyMD
 * OpenCV
 * TensorFlow Lite (MoveNet)
 * JSON
----------------------------------------------------------------------------------
- Requirements
 
-* Python 3.9 – 3.11 recommended
-* Visual Studio Code installed
------------------------------------------------------------------------------------
- Setup in Visual Studio Code
+-----------------------------------------
 
-Open the project
+## Requirements
+
+* Python 3.9 – 3.11
+* Visual Studio Code
+* Webcam (required for body detection)
+
+----------------------------------------
+
+## Installation
+
+### 1. Open the project
 
 * Open Visual Studio Code
-* Click on **File → Open Folder**
-* Select your project folder
+* Go to **File → Open Folder**
+* Select the project folder
 
-------------------------------------
-Install dependencies
+--------------------------------------
+
+### 2. Install dependencies
 
 Open the terminal in VS Code and run:
 
 pip install kivy kivymd opencv-python numpy tensorflow
 
--------------------------------------------------------------------
+Or create a file named `requirements.txt` with the following content:
 
- Add the MoveNet model
+kivy
+kivymd
+opencv-python
+numpy
+tensorflow
 
-Make sure this folder exists in your project:
+Then install using:
 
+pip install -r requirements.txt
+
+-------------------------------------------------
+
+### 3. Add the MoveNet model
+
+Make sure the following folder exists in your project:
 
 movenet-tflite-singlepose-lightning-v1/
-    └── 3.tflite
---------------------------------------------------------------------
- Project structure
+└── 3.tflite
+
+This model is used for real-time body pose detection.
+
+------------------------------------------------
+
+## Project Structure
 
 project/
 │
-├── main.py
+├── cuidaME.py
 ├── cuidaME.kv
 ├── usuarios.json
 ├── usuario_deteccion_riesgo.json
@@ -54,21 +86,22 @@ project/
 │   └── (game images)
 │
 └── movenet-tflite-singlepose-lightning-v1/
-    └── 3.tflite
---------------------------------------------------------
+└── 3.tflite
 
-Run the App
+------------------------------------------------
+
+## Run the App
 
 In the VS Code terminal:
 
 python cuidaME.py
----------------------------------------------------------
 
- Notes
+-----------------------------------------------
 
-* The app is designed to run on desktop using Python (not as an APK)
-* A webcam is required for the body detection feature
-* Make sure all files and folders are correctly placed
+## Notes
+
+* This application runs on desktop using Python (not as an APK)
+* A webcam / laptop camera is required for the AI detection feature
+* Make sure all files are correctly placed
 * If the model file is missing, the detection feature will not work
 
----
