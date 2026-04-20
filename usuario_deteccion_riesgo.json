@@ -1,0 +1,238 @@
+[
+    {
+        "usuario": "anonimo",
+        "fecha": "2026-04-16",
+        "hora": "18:37",
+        "respuestas": [
+            {
+                "respuesta": "Triste",
+                "riesgo": "bajo"
+            },
+            {
+                "respuesta": "No",
+                "riesgo": "bajo"
+            },
+            {
+                "respuesta": "Sí",
+                "riesgo": "bajo"
+            },
+            {
+                "respuesta": "✏️ Quiero escribirlo",
+                "riesgo": "bajo"
+            },
+            {
+                "respuesta": "Alguien me hizo sentir incomodo al tocar mi parte privada",
+                "riesgo": "alto"
+            }
+        ],
+        "riesgo_total": "alto"
+    },
+    {
+        "usuario": "anonimo",
+        "fecha": "2026-04-16",
+        "hora": "18:42",
+        "respuestas": [
+            {
+                "respuesta": "😊 Feliz",
+                "riesgo": "bajo"
+            },
+            {
+                "respuesta": "Más o menos 😐",
+                "riesgo": "bajo"
+            },
+            {
+                "respuesta": "Sí 😟",
+                "riesgo": "bajo"
+            },
+            {
+                "respuesta": "✏️ Quiero escribirlo",
+                "riesgo": "bajo"
+            },
+            {
+                "respuesta": "Mi mama me hizo sentir mal",
+                "riesgo": "medio"
+            }
+        ],
+        "riesgo_total": "medio"
+    },
+    {
+        "usuario": "anonimo",
+        "fecha": "2026-04-16",
+        "hora": "18:43",
+        "respuestas": [
+            {
+                "respuesta": "😊 Feliz",
+                "riesgo": "bajo"
+            },
+            {
+                "respuesta": "Más o menos 😐",
+                "riesgo": "bajo"
+            },
+            {
+                "respuesta": "Sí 😟",
+                "riesgo": "bajo"
+            },
+            {
+                "respuesta": "✏️ Quiero escribirlo",
+                "riesgo": "bajo"
+            },
+            {
+                "respuesta": "Mi mama me hizo sentir mal",
+                "riesgo": "medio"
+            },
+            {
+                "respuesta": "Regresar 🔙",
+                "riesgo": "bajo"
+            }
+        ],
+        "riesgo_total": "medio"
+    },
+    {
+        "usuario": "anonimo",
+        "fecha": "2026-04-16",
+        "hora": "18:45",
+        "respuestas": [
+            {
+                "respuesta": "😊 Feliz",
+                "riesgo": "bajo"
+            },
+            {
+                "respuesta": "Sí 💛",
+                "riesgo": "bajo"
+            },
+            {
+                "respuesta": "No 😊",
+                "riesgo": "bajo"
+            },
+            {
+                "respuesta": "✏️ Quiero escribirlo",
+                "riesgo": "bajo"
+            },
+            {
+                "respuesta": "fff",
+                "riesgo": "medio"
+            }
+        ],
+        "riesgo_total": "medio"
+    },
+    {
+        "usuario": "anonimo",
+        "fecha": "2026-04-16",
+        "hora": "18:47",
+        "respuestas": [
+            {
+                "respuesta": "😊 Feliz",
+                "riesgo": "bajo"
+            },
+            {
+                "respuesta": "Sí 💛",
+                "riesgo": "bajo"
+            },
+            {
+                "respuesta": "No 😊",
+                "riesgo": "bajo"
+            }
+        ],
+        "riesgo_total": "bajo"
+    },
+    {
+        "usuario": "anonimo",
+        "fecha": "2026-04-16",
+        "hora": "20:04",
+        "respuestas": [
+            {
+                "respuesta": "Feliz",
+                "riesgo": "bajo"
+            },
+            {
+                "respuesta": "Sí",
+                "riesgo": "bajo"
+            },
+            {
+                "respuesta": "No",
+                "riesgo": "bajo"
+            }
+        ],
+        "riesgo_total": "bajo"
+    },
+    {
+        "usuario": "anonimo",
+        "fecha": "2026-04-16",
+        "hora": "20:12",
+        "respuestas": [
+            {
+                "respuesta": "Feliz",
+                "riesgo": "bajo"
+            },
+            {
+                "respuesta": "No",
+                "riesgo": "bajo"
+            },
+            {
+                "respuesta": "Si",
+                "riesgo": "bajo"
+            },
+            {
+                "respuesta": "Secreto malo",
+                "riesgo": "alto"
+            }
+        ],
+        "riesgo_total": "alto"
+    },
+    {
+        "usuario": "anonimo",
+        "fecha": "2026-04-18",
+        "hora": "19:31",
+        "respuestas": [
+            {
+                "respuesta": "Feliz",
+                "riesgo": "bajo"
+            },
+            {
+                "respuesta": "No",
+                "riesgo": "bajo"
+            },
+            {
+                "respuesta": "Si",
+                "riesgo": "bajo"
+            },
+            {
+                "respuesta": "Quiero escribirlo",
+                "riesgo": "bajo"
+            },
+            {
+                "respuesta": "incomodoo",
+                "riesgo": "medio"
+            }
+        ],
+        "riesgo_total": "medio"
+    },
+    {
+        "usuario": "anonimo",
+        "fecha": "2026-04-18",
+        "hora": "19:40",
+        "respuestas": [
+            {
+                "respuesta": "Triste",
+                "riesgo": "bajo"
+            },
+            {
+                "respuesta": "No",
+                "riesgo": "bajo"
+            },
+            {
+                "respuesta": "Si",
+                "riesgo": "bajo"
+            },
+            {
+                "respuesta": "Quiero escribirlo",
+                "riesgo": "bajo"
+            },
+            {
+                "respuesta": "me senti incomodo",
+                "riesgo": "medio"
+            }
+        ],
+        "riesgo_total": "medio"
+    }
+]
