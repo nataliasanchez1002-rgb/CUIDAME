@@ -104,4 +104,5 @@ python cuidaME.py
 * A webcam / laptop camera is required for the AI detection feature
 * Make sure all files are correctly placed
 * If the model file is missing, the detection feature will not work
+*To see more about the design in the carpet images, you can find information.
 
