@@ -99,7 +99,7 @@ python cuidaME.py
 -----------------------------------------------
 
 ## Notes
-
+* To access the app you can use the username "CUIDAME" and the password "12345" or create an account from scratch in the sign up
 * This application runs on desktop using Python (not as an APK)
 * A webcam / laptop camera is required for the AI detection feature
 * Make sure all files are correctly placed
